@@ -1,5 +1,5 @@
-// Catálogo Ypê — gerado da planilha master de SKUs (185 produtos)
-// Total: 185 produtos · 5 Linhas-Mãe
+// Catálogo Ypê — 185 SKUs reais + imagens oficiais ype.ind.br
+// 87/185 produtos com imagem oficial Ypê
 window.YPE_PRODUCTS = [
  {
   "id": "YPE-0003",
@@ -26,7 +26,7 @@ window.YPE_PRODUCTS = [
   "price": 9.28,
   "listPrice": 11.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_amaciante-conc-1l-encanto-das-flores.png",
   "link": "ype-0004",
   "desc": "Ypê · Amaciante Concentrado · 1 L · 12 un/cx",
   "recommended": false
@@ -56,7 +56,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_amaciante_conc_coco-e-baunilha.png",
   "link": "ype-0006",
   "desc": "Ypê · Amaciante Concentrado · 1 L · 12 un/cx",
   "recommended": false
@@ -101,7 +101,7 @@ window.YPE_PRODUCTS = [
   "price": 9.28,
   "listPrice": 11.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_amaciante-conc-1l-encanto-das-flores.png",
   "link": "ype-0009",
   "desc": "Ypê · Amaciante Concentrado · 1 L · 12 un/cx",
   "recommended": false
@@ -161,7 +161,7 @@ window.YPE_PRODUCTS = [
   "price": 9.28,
   "listPrice": 11.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_amaciante-conc-1l-brisa-lilas.png",
   "link": "ype-0013",
   "desc": "Ypê · Amaciante Concentrado · 1 L · 12 un/cx",
   "recommended": false
@@ -176,7 +176,7 @@ window.YPE_PRODUCTS = [
   "price": 10.84,
   "listPrice": 13.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_green_amaciante-concentrado-1l.png",
   "link": "ype-0014",
   "desc": "Ypê · Amaciante Concentrado · 1 L · 12 un/cx",
   "recommended": true
@@ -191,7 +191,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_antibac-amaciante-concentrado-1l.png",
   "link": "ype-0015",
   "desc": "Ypê · Amaciante Concentrado · 1 L · 12 un/cx",
   "recommended": true
@@ -251,7 +251,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_amaciante-conc-1l-encanto-das-flores.png",
   "link": "ype-0019",
   "desc": "Ypê · Amaciante Tradicional · 2 L · 6 un/cx",
   "recommended": false
@@ -326,7 +326,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabao-barra-green.png",
   "link": "ype-0080",
   "desc": "Ypê · Sabão em Barra · 5x200g (1kg) · 20 un/cx",
   "recommended": true
@@ -341,7 +341,7 @@ window.YPE_PRODUCTS = [
   "price": 6.94,
   "listPrice": 8.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabao-barra-neutro-rosa.png",
   "link": "ype-0081",
   "desc": "Ypê · Sabão em Barra · 5x200g (1kg) · 20 un/cx",
   "recommended": false
@@ -371,7 +371,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabao-barra-fresh-verde-claro.png",
   "link": "ype-0083",
   "desc": "Ypê · Sabão em Barra · 5x200g (1kg) · 20 un/cx",
   "recommended": false
@@ -386,7 +386,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabao-barra-aloe-vera-verde-1745344589.png",
   "link": "ype-0084",
   "desc": "Ypê · Sabão em Barra · 5x200g (1kg) · 20 un/cx",
   "recommended": false
@@ -401,7 +401,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-agua-de-coco-e-alecrim.png",
   "link": "ype-0085",
   "desc": "Ypê · Sabão em Barra · 5x200g (1kg) · 20 un/cx",
   "recommended": false
@@ -416,7 +416,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-fresia-e-pessego.png",
   "link": "ype-0086",
   "desc": "Ypê · Sabão em Barra · 5x200g (1kg) · 20 un/cx",
   "recommended": false
@@ -431,7 +431,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_assolan-sabao-em-pasta-1724171941.png",
   "link": "ype-0087",
   "desc": "Assolan · Sabão em Pasta · 500 g · 24 un/cx",
   "recommended": false
@@ -446,7 +446,7 @@ window.YPE_PRODUCTS = [
   "price": 3.89,
   "listPrice": 4.99,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_atol-sabao-em-pasta-atol-1727787622.png",
   "link": "ype-0088",
   "desc": "Atol · Sabão em Pasta · 500 g · 24 un/cx",
   "recommended": false
@@ -551,7 +551,7 @@ window.YPE_PRODUCTS = [
   "price": 6.94,
   "listPrice": 8.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_antibac-lrp-tixan-sache-800g.png",
   "link": "ype-0095",
   "desc": "Tixan · Sabão em Pó · 800 g · 20 un/cx",
   "recommended": true
@@ -656,7 +656,7 @@ window.YPE_PRODUCTS = [
   "price": 5.84,
   "listPrice": 7.49,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_atol-sabao-em-pasta-atol-1727787622.png",
   "link": "ype-0102",
   "desc": "Atol · Sabão em Pó · 1 kg · 16 un/cx",
   "recommended": false
@@ -671,7 +671,7 @@ window.YPE_PRODUCTS = [
   "price": 5.84,
   "listPrice": 7.49,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_atol-sabao-em-pasta-atol-1727787622.png",
   "link": "ype-0103",
   "desc": "Atol · Sabão em Pó · 1 kg · 16 un/cx",
   "recommended": false
@@ -806,7 +806,7 @@ window.YPE_PRODUCTS = [
   "price": 17.08,
   "listPrice": 21.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_coco_e_baunilha.png",
   "link": "ype-0112",
   "desc": "Tixan · Sabão Líquido · 3 L · 6 un/cx",
   "recommended": false
@@ -911,7 +911,7 @@ window.YPE_PRODUCTS = [
   "price": 9.28,
   "listPrice": 11.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0120",
   "desc": "Tixan · Tira Manchas · 450 ml · 12 un/cx",
   "recommended": false
@@ -926,7 +926,7 @@ window.YPE_PRODUCTS = [
   "price": 9.28,
   "listPrice": 11.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0121",
   "desc": "Tixan · Tira Manchas · 450 ml · 12 un/cx",
   "recommended": false
@@ -941,7 +941,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0122",
   "desc": "Tixan · Tira Manchas · 450 ml · 12 un/cx",
   "recommended": false
@@ -956,7 +956,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0123",
   "desc": "Tixan · Tira Manchas · 450 g · 12 un/cx",
   "recommended": false
@@ -971,7 +971,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0124",
   "desc": "Tixan · Tira Manchas · 450 g · 12 un/cx",
   "recommended": false
@@ -986,7 +986,7 @@ window.YPE_PRODUCTS = [
   "price": 3.82,
   "listPrice": 4.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0125",
   "desc": "Tixan · Tira Manchas · 200 g · 24 un/cx",
   "recommended": false
@@ -1001,7 +1001,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0126",
   "desc": "Tixan · Tira Manchas · 450 ml · 12 un/cx",
   "recommended": false
@@ -1016,7 +1016,7 @@ window.YPE_PRODUCTS = [
   "price": 3.82,
   "listPrice": 4.90,
   "available": true,
-  "image": "assets/cat-lavanderia.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_tixan_tira_manchas_roupas-brancas-e-coloridas.png",
   "link": "ype-0127",
   "desc": "Tixan · Tira Manchas · 200 g · 24 un/cx",
   "recommended": false
@@ -1241,7 +1241,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-cozinha.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_detergente_concentrado_green.png",
   "link": "ype-0048",
   "desc": "Ypê · Detergente Concentrado · 200 ml · 24 un/cx",
   "recommended": true
@@ -1256,7 +1256,7 @@ window.YPE_PRODUCTS = [
   "price": 4.13,
   "listPrice": 5.29,
   "available": true,
-  "image": "assets/cat-cozinha.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_detergente_concentrado_neutro.png",
   "link": "ype-0049",
   "desc": "Ypê · Detergente Concentrado · 200 ml · 24 un/cx",
   "recommended": false
@@ -1286,7 +1286,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-cozinha.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_detergente_concentrado_clear-1738070861.png",
   "link": "ype-0051",
   "desc": "Ypê · Detergente Concentrado · 200 ml · 24 un/cx",
   "recommended": false
@@ -1361,7 +1361,7 @@ window.YPE_PRODUCTS = [
   "price": 1.79,
   "listPrice": 2.29,
   "available": true,
-  "image": "assets/cat-cozinha.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_assolan_la-de-aco_45g.png",
   "link": "ype-0056",
   "desc": "Assolan · Lã de Aço · pacote 8 un (60g) · 24 un/cx",
   "recommended": false
@@ -1436,7 +1436,7 @@ window.YPE_PRODUCTS = [
   "price": 5.38,
   "listPrice": 6.90,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_agua_sanitaria_pro_2025.png",
   "link": "ype-0002",
   "desc": "Ypê · Água Sanitária · 2 L · 6 un/cx",
   "recommended": false
@@ -1451,7 +1451,7 @@ window.YPE_PRODUCTS = [
   "price": 3.50,
   "listPrice": 4.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-pinho-500ml-citrus.png",
   "link": "ype-0024",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1466,7 +1466,7 @@ window.YPE_PRODUCTS = [
   "price": 3.50,
   "listPrice": 4.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-pinho-500ml-tradicao-1738004077.png",
   "link": "ype-0025",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1481,7 +1481,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-bak-500ml-lavanda.png",
   "link": "ype-0026",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1496,7 +1496,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-bak-500ml-eucalipto.png",
   "link": "ype-0027",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1511,7 +1511,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-bak-500ml-floral.png",
   "link": "ype-0028",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1526,7 +1526,7 @@ window.YPE_PRODUCTS = [
   "price": 4.28,
   "listPrice": 5.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-bak-500ml-turquesa.png",
   "link": "ype-0029",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1541,7 +1541,7 @@ window.YPE_PRODUCTS = [
   "price": 3.50,
   "listPrice": 4.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_desinfetante-pinho-500ml-lavanda.png",
   "link": "ype-0030",
   "desc": "Ypê · Desinfetante · 500 ml · 12 un/cx",
   "recommended": false
@@ -1661,7 +1661,7 @@ window.YPE_PRODUCTS = [
   "price": 2.72,
   "listPrice": 3.49,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_multiuso-tira-manchas-rosa.png",
   "link": "ype-0061",
   "desc": "Ypê · Limpador Multiuso · 500 ml · 24 un/cx",
   "recommended": false
@@ -1676,7 +1676,7 @@ window.YPE_PRODUCTS = [
   "price": 3.11,
   "listPrice": 3.99,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_multiuso-limpa_vidros_abril-1745342148.png",
   "link": "ype-0062",
   "desc": "Ypê · Limpador Multiuso · 500 ml · 24 un/cx",
   "recommended": false
@@ -1751,7 +1751,7 @@ window.YPE_PRODUCTS = [
   "price": 4.60,
   "listPrice": 5.90,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_amor_de_verao.png",
   "link": "ype-0067",
   "desc": "Ypê · Limpador Perfumado · 500 ml · 12 un/cx",
   "recommended": false
@@ -1826,7 +1826,7 @@ window.YPE_PRODUCTS = [
   "price": 5.38,
   "listPrice": 6.90,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_lustra-moveis-lavanda-1725393614.png",
   "link": "ype-0072",
   "desc": "Ypê · Lustra-Móveis · 200 ml · 12 un/cx",
   "recommended": false
@@ -1841,7 +1841,7 @@ window.YPE_PRODUCTS = [
   "price": 5.38,
   "listPrice": 6.90,
   "available": true,
-  "image": "assets/cat-limpeza-pesada.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_lustra-moveis-jasmin-1725393558.png",
   "link": "ype-0073",
   "desc": "Ypê · Lustra-Móveis · 200 ml · 12 un/cx",
   "recommended": false
@@ -2021,7 +2021,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0135",
   "desc": "Flor de Ypê · Hidratante Corporal · 200 ml · 12 un/cx",
   "recommended": false
@@ -2036,7 +2036,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0136",
   "desc": "Flor de Ypê · Hidratante Corporal · 200 ml · 12 un/cx",
   "recommended": false
@@ -2051,7 +2051,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-agua-de-coco-e-alecrim.png",
   "link": "ype-0137",
   "desc": "Flor de Ypê · Hidratante Corporal · 200 ml · 12 un/cx",
   "recommended": false
@@ -2111,7 +2111,7 @@ window.YPE_PRODUCTS = [
   "price": 1.94,
   "listPrice": 2.49,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0141",
   "desc": "Banho a Banho · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2141,7 +2141,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-fresia-e-pessego.png",
   "link": "ype-0143",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2156,7 +2156,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-gardenia-e-argan.png",
   "link": "ype-0144",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2171,7 +2171,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-laranjeira-damasco.png",
   "link": "ype-0145",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2186,7 +2186,7 @@ window.YPE_PRODUCTS = [
   "price": 1.94,
   "listPrice": 2.49,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabao-barra-aloe-vera-verde-1745344589.png",
   "link": "ype-0146",
   "desc": "Banho a Banho · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2201,7 +2201,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-agua-de-coco-e-alecrim.png",
   "link": "ype-0147",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2231,7 +2231,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-rosas-brancas-avela.png",
   "link": "ype-0149",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2246,7 +2246,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0150",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2261,7 +2261,7 @@ window.YPE_PRODUCTS = [
   "price": 2.18,
   "listPrice": 2.79,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-maca-framboesa-1748482587.png",
   "link": "ype-0151",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2276,7 +2276,7 @@ window.YPE_PRODUCTS = [
   "price": 2.72,
   "listPrice": 3.49,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-agua-de-coco-e-alecrim.png",
   "link": "ype-0152",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2291,7 +2291,7 @@ window.YPE_PRODUCTS = [
   "price": 2.72,
   "listPrice": 3.49,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0153",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2306,7 +2306,7 @@ window.YPE_PRODUCTS = [
   "price": 2.72,
   "listPrice": 3.49,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-maca-framboesa-1748482587.png",
   "link": "ype-0154",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2321,7 +2321,7 @@ window.YPE_PRODUCTS = [
   "price": 2.72,
   "listPrice": 3.49,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-laranjeira-damasco.png",
   "link": "ype-0155",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2336,7 +2336,7 @@ window.YPE_PRODUCTS = [
   "price": 2.57,
   "listPrice": 3.29,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-gardenia-e-argan.png",
   "link": "ype-0156",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2351,7 +2351,7 @@ window.YPE_PRODUCTS = [
   "price": 2.57,
   "listPrice": 3.29,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-laranjeira-damasco.png",
   "link": "ype-0157",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2366,7 +2366,7 @@ window.YPE_PRODUCTS = [
   "price": 2.57,
   "listPrice": 3.29,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-agua-de-coco-e-alecrim.png",
   "link": "ype-0158",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2381,7 +2381,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-agua-de-coco-e-alecrim.png",
   "link": "ype-0159",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2396,7 +2396,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0160",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2411,7 +2411,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-de-baunilha-e-amendoas.png",
   "link": "ype-0161",
   "desc": "Flor de Ypê · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2426,7 +2426,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-maca-framboesa-1748482587.png",
   "link": "ype-0162",
   "desc": "Action · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": true
@@ -2441,7 +2441,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-gardenia-e-argan.png",
   "link": "ype-0163",
   "desc": "Action · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": true
@@ -2456,7 +2456,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-gardenia-e-argan.png",
   "link": "ype-0164",
   "desc": "Action · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": true
@@ -2471,7 +2471,7 @@ window.YPE_PRODUCTS = [
   "price": 2.33,
   "listPrice": 2.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-flor-laranjeira-damasco.png",
   "link": "ype-0165",
   "desc": "Action · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": true
@@ -2486,7 +2486,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-antibac-aloe.png",
   "link": "ype-0166",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": true
@@ -2501,7 +2501,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-hidrat-macadamia.png",
   "link": "ype-0167",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2516,7 +2516,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-hidrat-proteinas-leite.png",
   "link": "ype-0168",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2531,7 +2531,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-perfum-rosas-vermelhas.png",
   "link": "ype-0169",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2546,7 +2546,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-perfum-erva-doce.png",
   "link": "ype-0170",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2561,7 +2561,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-perfum-lavanda.png",
   "link": "ype-0171",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2576,7 +2576,7 @@ window.YPE_PRODUCTS = [
   "price": 1.55,
   "listPrice": 1.99,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-siene-85g-hidrat-flor-algodao.png",
   "link": "ype-0172",
   "desc": "Siene · Sabonete em Barra · 85 g · 48 un/cx",
   "recommended": false
@@ -2591,7 +2591,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-rosas-brancas-avela.png",
   "link": "ype-0173",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2606,7 +2606,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-flor-maca-framboesa.png",
   "link": "ype-0174",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2636,7 +2636,7 @@ window.YPE_PRODUCTS = [
   "price": 6.94,
   "listPrice": 8.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-flior-laranjeira-damasco.png",
   "link": "ype-0176",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2651,7 +2651,7 @@ window.YPE_PRODUCTS = [
   "price": 9.28,
   "listPrice": 11.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabao-barra-aloe-vera-verde-1745344589.png",
   "link": "ype-0177",
   "desc": "Banho a Banho · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2666,7 +2666,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_barra-flor-de-ype-85g-fresia-e-pessego.png",
   "link": "ype-0178",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2696,7 +2696,7 @@ window.YPE_PRODUCTS = [
   "price": 7.72,
   "listPrice": 9.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-agua-de-coco-e-alecrim.png",
   "link": "ype-0180",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2711,7 +2711,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-agua-de-coco-e-alecrim.png",
   "link": "ype-0181",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2726,7 +2726,7 @@ window.YPE_PRODUCTS = [
   "price": 10.06,
   "listPrice": 12.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-rosas-brancas-avela.png",
   "link": "ype-0182",
   "desc": "Flor de Ypê · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2741,7 +2741,7 @@ window.YPE_PRODUCTS = [
   "price": 8.50,
   "listPrice": 10.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-rosas-brancas-avela.png",
   "link": "ype-0183",
   "desc": "Action · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2756,7 +2756,7 @@ window.YPE_PRODUCTS = [
   "price": 8.50,
   "listPrice": 10.90,
   "available": true,
-  "image": "assets/cat-cuidados-pessoais.svg",
+  "image": "https://www.ype.ind.br/assets-NS/card_sabonete_lidquido-flor-de-ype-250ml-agua-de-coco-e-alecrim.png",
   "link": "ype-0184",
   "desc": "Action · Sabonete Líquido · 200 ml · 12 un/cx",
   "recommended": false
@@ -2777,4 +2777,4 @@ window.YPE_PRODUCTS = [
   "recommended": false
  }
 ];
-window.CASTELO_PRODUCTS = window.YPE_PRODUCTS; // compat with shared engine
+window.CASTELO_PRODUCTS = window.YPE_PRODUCTS;
