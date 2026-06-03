@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#FF6B35" opacity="0.18"/>
+  <text x="100" y="115" font-size="80" text-anchor="middle">🚀</text>
+  <text x="100" y="170" font-size="14" font-family="Arial, sans-serif" font-weight="bold" fill="#FF6B35" text-anchor="middle">Lançamentos</text>
+</svg>
