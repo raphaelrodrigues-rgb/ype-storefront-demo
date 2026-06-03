@@ -1,6 +1,6 @@
 /* ================================================================
    Castelo Alimentos · Storefront demo
-   Lê window.CASTELO_PRODUCTS (definido em products.js) e renderiza
+   Lê window.YPE_PRODUCTS || window.CASTELO_PRODUCTS (definido em products.js) e renderiza
    catálogo + carrinho + checkout via wa.me deep link.
 
    Configuração: número do bot via query param ?wa=55XXXXXXXXXX
@@ -17,7 +17,7 @@
   const USER_REF   = URL_PARAMS.get('u') || ''; // referência opcional do usuário (vindo do bot)
   const PRELOAD_CART = URL_PARAMS.get('cart') || ''; // formato: ID1xQTY1,ID2xQTY2,...
 
-  const PRODUCTS = window.CASTELO_PRODUCTS || [];
+  const PRODUCTS = window.YPE_PRODUCTS || window.CASTELO_PRODUCTS || [];
   const CATS = [...new Set(PRODUCTS.map(p=>p.category))]; // mantém ordem do JSON
 
   // ---------- Estado ----------
