@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#00A651" opacity="0.18"/>
+  <rect width="200" height="200" fill="#86B348" opacity="0.15"/>
   <text x="100" y="115" font-size="80" text-anchor="middle">🍋</text>
-  <text x="100" y="170" font-size="14" font-family="Arial, sans-serif" font-weight="bold" fill="#00A651" text-anchor="middle">Cozinha</text>
+  <text x="100" y="170" font-size="13" font-family="Arial, sans-serif" font-weight="bold" fill="#86B348" text-anchor="middle">Cozinha</text>
 </svg>
