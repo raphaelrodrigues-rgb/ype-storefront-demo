@@ -288,7 +288,7 @@
     renderCartFab();
 
     // Se carrinho veio pre-carregado, ja abre a tela do carrinho
-    if(cartCount()>0 && PRELOAD_CART){
+    if(cartCount()>0 && PRELOAD_CART && URL_PARAMS.get("view") !== "catalog"){
       renderCart();
       showScreen('cart');
     }
