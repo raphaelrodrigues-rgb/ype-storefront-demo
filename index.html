@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#191964" />
+  <title>Castelo Alimentos · Catálogo</title>
+  <link rel="icon" href="assets/castelo-logo.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ============== TELA 1: CATÁLOGO ============== -->
+  <section id="screen-catalog" class="screen">
+
+    <!-- Top promo strip (igual ao site) -->
+    <div class="promo-strip">
+      <span><strong>Frete Grátis SP</strong> para compras acima de R$ 300,00</span>
+      <span class="badge">Castelo</span>
+    </div>
+
+    <header class="topbar">
+      <div class="topbar-row">
+        <div class="brand">
+          <img class="brand-logo" src="assets/castelo-logo.png" alt="Castelo Alimentos" />
+        </div>
+        <button class="icon-btn" id="open-cart-btn" aria-label="Abrir carrinho">
+          🛒<span class="cart-badge" id="cart-badge" hidden>0</span>
+        </button>
+      </div>
+      <div class="search-row">
+        <div class="search-wrap">
+          <input id="search-input" type="search" placeholder="Buscar produtos…" autocomplete="off"/>
+          <span class="search-icon">🔍</span>
+        </div>
+      </div>
+      <nav class="cats" id="cats-nav" aria-label="Categorias"></nav>
+    </header>
+
+    <main class="content">
+
+      <!-- Hero banner -->
+      <section class="hero" id="hero-banner">
+        <span class="hero-tag">⭐ Promoção exclusiva</span>
+        <h2 class="hero-title">Por tempo<br/>limitado</h2>
+        <p class="hero-sub">Azeites, vinagres e molhos com preços imperdíveis</p>
+        <button class="hero-btn" id="hero-cta">Aproveitar agora →</button>
+        <div class="hero-deco">🫒</div>
+      </section>
+
+      <!-- Quick categories (chips circulares como no site) -->
+      <section>
+        <h2 class="section-title">Categorias</h2>
+        <div class="quick-cats" id="quick-cats"></div>
+      </section>
+
+      <!-- Recomendados -->
+      <section class="rec-section" id="rec-section">
+        <h2 class="section-title">🔥 Recomendados pra você</h2>
+        <div class="rec-scroller" id="rec-scroller"></div>
+      </section>
+
+      <!-- Grid de produtos -->
+      <section class="grid-section">
+        <h2 class="section-title" id="grid-title">Todos os produtos</h2>
+        <div class="product-grid" id="product-grid"></div>
+        <p class="empty" id="empty-state" hidden>Nenhum produto encontrado.</p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <img class="footer-logo" src="assets/castelo-logo.png" alt="Castelo"/>
+      <p><strong>Castelo Alimentos</strong> · 120 anos de confiança</p>
+      <p>Castelo vai até você · Entrega para todo o Brasil</p>
+      <p class="small">Demo de storefront · catálogo via API VTEX</p>
+    </footer>
+
+    <button class="cart-fab" id="cart-fab" hidden>
+      <span>VER CARRINHO</span>
+      <span class="cart-fab-total" id="cart-fab-total">R$ 0,00</span>
+    </button>
+  </section>
+
+  <!-- ============== TELA 2: CARRINHO ============== -->
+  <section id="screen-cart" class="screen" hidden>
+    <div class="promo-strip">
+      <span>🛒 <strong>Revisando seu pedido</strong></span>
+    </div>
+    <header class="topbar">
+      <div class="topbar-row">
+        <button class="icon-btn back-btn" id="back-to-catalog" aria-label="Voltar">←</button>
+        <h1 class="cart-title">Seu carrinho</h1>
+        <span style="width:42px"></span>
+      </div>
+    </header>
+
+    <main class="content">
+      <ul class="cart-list" id="cart-list"></ul>
+      <p class="empty" id="cart-empty" hidden>Seu carrinho está vazio.<br/><button class="link-btn" id="back-shop">← Voltar ao catálogo</button></p>
+
+      <section class="upsell-section" id="upsell-section" hidden>
+        <h2 class="section-title">✨ Complete seu pedido</h2>
+        <p class="upsell-sub">Produtos que combinam com o que você está levando</p>
+        <div class="rec-scroller" id="upsell-scroller"></div>
+      </section>
+
+      <section class="totals" id="totals" hidden>
+        <div class="totals-row"><span>Subtotal</span><span id="totals-subtotal">R$ 0,00</span></div>
+        <div class="totals-row"><span>Itens</span><span id="totals-count">0</span></div>
+        <div class="totals-row total"><span>Total</span><span id="totals-grand">R$ 0,00</span></div>
+      </section>
+    </main>
+
+    <button class="checkout-fab" id="checkout-fab" hidden>
+      <span class="wa-icon">📱</span> FINALIZAR PEDIDO
+    </button>
+  </section>
+
+  <!-- ============== TELA 3: CONFIRMAÇÃO ============== -->
+  <section id="screen-confirm" class="screen" hidden>
+    <div class="promo-strip">
+      <span>✅ <strong>Pedido pronto pra enviar</strong></span>
+    </div>
+    <header class="topbar">
+      <div class="topbar-row">
+        <div class="brand">
+          <img class="brand-logo" src="assets/castelo-logo.png" alt="Castelo Alimentos"/>
+        </div>
+        <span style="width:42px"></span>
+      </div>
+    </header>
+    <main class="content confirm-content">
+      <div class="confirm-card">
+        <div class="confirm-check">✅</div>
+        <h1>Pedido pronto!</h1>
+        <p class="confirm-code">Código: <strong id="confirm-code-text">PEDIDO#----</strong></p>
+        <p class="confirm-help">Clique no botão abaixo para enviar seu pedido por WhatsApp. Nosso atendente vai confirmar e combinar pagamento e entrega.</p>
+        <a id="wa-link" class="wa-btn" href="#" target="_blank" rel="noopener">
+          <span>📱</span> Enviar pedido pelo WhatsApp
+        </a>
+        <button class="link-btn" id="back-to-cart">← Revisar carrinho</button>
+      </div>
+    </main>
+  </section>
+
+  <script src="products.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
