@@ -245,7 +245,7 @@
     const lines = items.map(it=>`• ${it.name} — ${it.qty}x ${fmt(it.price)} = ${fmt(it.price*it.qty)}`);
     const total = fmt(cartTotal());
     const ref = USER_REF ? `\nRef: ${USER_REF}` : '';
-    return `*PEDIDO#${code}*${ref}\n\n${lines.join('\n')}\n\n*Total: ${total}*\n_(Enviado pelo catálogo Castelo)_`;
+    return `*PEDIDO#${code}*${ref}\n\n${lines.join('\n')}\n\n*Total: ${total}*\n_(Enviado pelo catálogo Ypê)_`;
   }
   function gotoConfirm(){
     if(cartCount()===0) return;
